@@ -14,9 +14,6 @@ This project is Task 4 of my Web Development Internship at **Prodigy InfoTech**.
 - CSS
 - JavaScript
 
-### Live Demo
-Coming Soon!
-
 ### Internship Details
 - Organization: Prodigy InfoTech
 - Domain: Web Development
